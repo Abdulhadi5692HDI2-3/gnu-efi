@@ -1,9 +1,9 @@
-*.efi
-*.efi.debug
-*.o
-*.a
-*.tar.*
-*.tar
+#*.efi
+#*.efi.debug
+#*.o
+#*.a
+#*.tar.*
+#*.tar
 # Visual Studio intermediate files
 *.suo
 *.opensdf
